@@ -1,4 +1,4 @@
-# draughtsgame-javafx-game
+# draught-javafx-game
 #Developed in NetBeans 8.0.2
 #This is a javafx game created as a group project in College (2 persons)
 #It applies the rules of the American version of Draughts
